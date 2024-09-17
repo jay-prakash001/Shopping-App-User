@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="return_days">7 Days Easy Return</string>
+    <string name="cod">Cash on Delivery</string>
+    <string name="price">Lowest Price</string>
+</resources>
